@@ -21,3 +21,4 @@ C:\Users\Mark\source\repos\redis_w_AWS_SDK\HelloWorld\bin\Debug\net8.0\StackExch
 C:\Users\Mark\source\repos\redis_w_AWS_SDK\HelloWorld\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Users\Mark\source\repos\redis_w_AWS_SDK\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.AssemblyReference.cache
 C:\Users\Mark\source\repos\redis_w_AWS_SDK\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.Up2Date
+C:\Users\Mark\source\repos\redis_w_AWS_SDK\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
