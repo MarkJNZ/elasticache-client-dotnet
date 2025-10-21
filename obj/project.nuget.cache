@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Azy6TIPABIc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mark\\source\\repos\\redis_w_AWS_SDK\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark\\.nuget\\packages\\awssdk.core\\4.0.1.1\\awssdk.core.4.0.1.1.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\awssdk.securitytoken\\4.0.2.9\\awssdk.securitytoken.4.0.2.9.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\stackexchange.redis\\2.9.32\\stackexchange.redis.2.9.32.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
